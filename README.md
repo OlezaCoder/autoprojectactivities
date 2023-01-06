@@ -1,0 +1,2 @@
+# autoprojectactivities
+diplom for university
